@@ -31,7 +31,6 @@ class IbrahimNuryaginli:
         "Neural Frames — Teknosel Yapay Zekâ Film Yarışması (Kaptan)",
     ]
 
-    fun_fact = "98 puan → finalist 🎬  &  gitar da çalıyorum 🎸"
 ```
 
 ---
