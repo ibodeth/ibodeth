@@ -1,14 +1,4 @@
 <div align="center">
-
-```
-██╗██████╗  ██████╗
-██║██╔══██╗██╔═══██╗
-██║██████╔╝██║   ██║
-██║██╔══██╗██║   ██║
-██║██████╔╝╚██████╔╝
-╚═╝╚═════╝  ╚═════╝
-```
-
 # İbrahim Nuryağınlı
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=580&lines=AI+Engineer+%7C+Competition+Captain+%F0%9F%9A%80;Building+autonomous+systems+%F0%9F%A4%96;TEKNOFEST+Captain;%7C+Teknosel+AI+Short+Film+Competition+Finalist;Cargo+Pilot+Backend+Dev+%E2%9C%88%EF%B8%8F;Python+%C2%B7+Linux+%C2%B7+Raspberry+Pi+%C2%B7+Game+Dev)](https://git.io/typing-svg)
