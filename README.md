@@ -10,7 +10,7 @@
 ```
 
 # İbrahim Nuryağınlı
-### `> AI Engineer & Frontend Dev & Competition Captain`
+### `> AI Engineer & Backend Dev & Competition Captain`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+autonomous+systems+%F0%9F%A4%96;TEKNOFEST+competitor+%F0%9F%9A%80;AI+%2B+Hardware+%3D+%E2%9D%A4%EF%B8%8F;Cargo+Pilot+Frontend+Dev+(3D+%26+Viz);Neural+Frames+filmmaker+%F0%9F%8E%AC)](https://git.io/typing-svg)
 
@@ -24,8 +24,8 @@
 $ whoami
 > ibodeth — NEÜ Yapay Zekâ Operatörlüğü öğrencisi
 > Blink projesiyle yazılım-donanım entegrasyonu
-> TEKNOFEST x2 katılımcı | Film yarışması finalist (98 puan 🎯)
-> Cargo Pilot Frontend Dev (3D & Görselleştirme)
+> TEKNOFEST Kaptanlığı | Teknosel Film yarışması finalistliği
+> Cargo Pilot Backend Dev
 ```
 
 </div>
@@ -45,7 +45,7 @@ class IbrahimNuryaginli:
 
         self.current_work = [
             "🤖 Blink — Otonom sesli asistan (yazılım + donanım)",
-            "✈️  Cargo Pilot — Frontend Dev (3D & Viz)",
+            "✈️  Cargo Pilot — Backend Dev (3D & Viz)",
             "⚔️  TEKNOFEST Çelikkubbe — KAPSÜL ODAK (FullStack/AIOps)",
             "🚚 TEKNOFEST Lojistik — Çelik Rota (Kaptan)",
             "🎬 Teknosel Yapay Zeka Filmi — Neural Frames (Kaptan)",
