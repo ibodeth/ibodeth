@@ -1,88 +1,60 @@
-<div align="center">
-
-```
-__ ____   _____  _____ _____ _____ __  __
-|| ||=)  ((   )) ||  ) ||==   ||   ||==||
-|| ||_))  \\_//  ||_// ||___  ||   ||  ||
-```
 # İbrahim Nuryağınlı
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=580&lines=AI+Engineer+%7C+Competition+Captain+%F0%9F%9A%80;Building+autonomous+systems+%F0%9F%A4%96;TEKNOFEST+Captain;%7C+Teknosel+AI+Short+Film+Competition+Finalist;Cargo+Pilot+Backend+Dev+%E2%9C%88%EF%B8%8F;Python+%C2%B7+Linux+%C2%B7+Raspberry+Pi+%C2%B7+Game+Dev)](https://git.io/typing-svg)
-
-</div>
-
----
-
-```python
-class IbrahimNuryaginli:
-    university = "Necmettin Erbakan Üniversitesi — Yapay Zekâ Operatörlüğü"
-    location   = "Konya, Türkiye 🇹🇷"
-    contact    = "ibodeth@proton.me"
-
-    focus = [
-        "Blink — yazılım/donanım entegrasyonlu otonom sesli asistan",
-        "Cargo Pilot — Backend Developer",
-        "TEKNOFEST Çelikkubbe — KAPSÜL ODAK (FullStack / AIOps)",
-        "TEKNOFEST Lojistik Optimizasyonu — ÇELİK ROTA (Kaptan)",
-        "Neural Frames — Teknosel Yapay Zekâ Film Yarışması (Kaptan)",
-    ]
-
-```
+**Systems Architect & DevOps Engineer / AIOps**  
+*Konya, Turkey | ibodeth@proton.me | [Portfolio](https://ibodeth.github.io/portfolio)*
 
 ---
 
-## Skills
+### 🚀 Technical Profile
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+Systems Architect and DevOps Engineer specializing in containerized infrastructures, autonomous agent pipelines (AIOps), and real-time hardware-software integrations. Focused on automating deployment workflows, building distributed backend services, and optimizing runtime performance in high-scale and resource-constrained environments.
 
 ---
 
-## Projects
+### 🛠 Tech Stack
 
-| Proje | Açıklama |
-|---|---|
-| 🤖 **Blink** | Otonom sesli kişisel asistan |
-| 📟 **ESPBlink** | Taşınabilir sesli asistan (Raspberry Pi) |
-| 📝 **NoteMasterAI** | Otonom sınav puanlandırma sistemi |
-| 📱 **SubTracker** | Aylık abonelik yönetim platformu |
-| 📰 **Synapse** | Yapay zekâ haberleri uygulaması |
-| 🐧 **nvidia-laptop-battery-optimizer** | Linux ekran kartı optimizasyon aracı |
-| 🎮 **Koloniler** | [Mağara Jam 2025](https://magarajam.com/game/koloniler) |
+- **Languages:** Python, TypeScript, JavaScript, Go, C/C++, Bash, SQL
+- **DevOps & Infrastructure:** Docker, Docker Compose, Linux Administration (Debian/Ubuntu/Arch), CI/CD Pipelines, Nginx, systemd services
+- **Backend & APIs:** Node.js, Express, Flask, FastAPI, WebSockets (socket.io), RESTful APIs
+- **Embedded Systems & AI:** YOLOv8 (computer vision), OpenCV, Gemini & OpenAI APIs, Raspberry Pi, ESP32, Arduino
 
 ---
 
-## Competitions
+### 💻 Key Projects
 
-```
-[2025] TEKNOFEST — ÇELİKKUBBE HAVA SAVUNMA SİSTEMLERİ
-       └─ KAPSÜL ODAK  |  FullStack Dev + AIOps ⚔️
+#### [NeuroPod](https://github.com/ibodeth/NeuroPod)
+> **Real-time DMX lighting control engine and simulator.**
+- Built a React + Node.js/Express monorepo for real-time fixtures setup and custom DMX packet generation.
+- Implemented state synchronization via WebSockets (Socket.io) and structured the configuration schema with TypeScript.
+- Containerized the entire stack using multi-stage Alpine-based Docker builds for production environments.
 
-[2025] TEKNOFEST — AI DESTEKLİ LOJİSTİK OPTİMİZASYONU
-       └─ ÇELİK ROTA   |  Takım Kaptanı 🚢
+#### [PiCareerAgent](https://github.com/ibodeth/PiCareerAgent)
+> **Autonomous LLM-driven job application agent pipeline.**
+- Engineered a self-improving agent workflow that crawls job boards, parses resumes, and evaluates role matches using LLM heuristics.
+- Developed an automated pipeline using Python, Flask, and scheduling mechanisms to run background processing asynchronously.
+- Dockerized the pipeline with a multi-stage Python container to guarantee environment-independent execution.
 
-[2025] TEKNOSEL YAPAY ZEKÂ FİLM YARIŞMASI
-       └─ NEURAL FRAMES |  Kaptan  |  FİNALİST  (98 puan) 🎬
+#### [NoteMasterAI](https://github.com/ibodeth/NoteMasterAI)
+> **Intelligent OMR & AI-driven grading system.**
+- Developed a desktop-to-mobile system consisting of a PyQt administration console and a Flutter scanning client.
+- Fine-tuned a custom YOLOv8 model on 750+ annotated exam papers for automated question zone detection.
+- Built a Python-based headless OMR processing and grading server that grades handwriting using Google Gemini Vision API.
 
-[2025] MAĞARA JAM
-       └─ Koloniler     |  Game Jam 🎮
-```
+#### [DeepPi-OLED](https://github.com/ibodeth/DeepPi-OLED)
+> **Hardware performance monitor & LLM client for Raspberry Pi 5.**
+- Programmed a lightweight system daemon to monitor CPU, memory, and temperature metrics and render them in real-time to an SSD1306 OLED screen.
+- Integrated a terminal-based interface to query local LLMs via Ollama, showcasing resource-efficient processing on edge devices.
+
+---
+
+### 🏆 Competitions & Leadership
+
+- **TEKNOFEST Air Defense Systems (Çelikkubbe):** Core FullStack & AIOps Developer for distributed radar and target tracking simulations.
+- **TEKNOFEST Logistics Optimization (Çelik Rota):** Team Captain, designed pathfinding algorithms and vehicle routing optimization services.
+- **Teknosel AI Film Competition:** Team Captain & Finalist (scored 98/100), developed video frame extraction and processing pipelines.
 
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibodeth&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibodeth&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&count_private=true&langs_count=6)
-
-![Streak](https://streak-stats.demolab.com?user=ibodeth&theme=matrix&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-[![Email](https://img.shields.io/badge/ibodeth@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:ibodeth@proton.me)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ibodeth&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
 </div>
