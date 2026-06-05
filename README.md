@@ -22,11 +22,11 @@ Systems Architect and DevOps Engineer specializing in containerized infrastructu
 
 ### 💻 Key Projects
 
-#### [NeuroPod](https://github.com/ibodeth/NeuroPod)
-> **Real-time DMX lighting control engine and simulator.**
-- Built a React + Node.js/Express monorepo for real-time fixtures setup and custom DMX packet generation.
-- Implemented state synchronization via WebSockets (Socket.io) and structured the configuration schema with TypeScript.
-- Containerized the entire stack using multi-stage Alpine-based Docker builds for production environments.
+#### [Blink](https://github.com/ibodeth/Blink)
+> **Autonomous AI-driven desktop voice assistant.**
+- Engineered an event-driven voice assistant utilizing Picovoice Porcupine for local wake-word detection.
+- Integrated Google Gemini to parse natural language requests into structured execution queues dynamically.
+- Developed an interactive Siri-style animated PyQt5 UI displaying real-time audio amplitude waveforms.
 
 #### [PiCareerAgent](https://github.com/ibodeth/PiCareerAgent)
 > **Autonomous LLM-driven job application agent pipeline.**
